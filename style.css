@@ -1,0 +1,84 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgb(255, 255, 255);
+    margin: 2px;
+}
+
+header{
+    height: 136px;
+    margin: 0px;  
+}
+
+hr{
+    margin-top: 57px;
+}
+
+.logo{
+    width: 250px;
+    height: 135px;
+    margin-left: 150px;
+}
+
+.menu{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: right;
+    margin-right: 140px;
+    margin-top: -80px;
+}
+
+.link-menu{
+    text-decoration: none;
+    color: rgb(43, 85, 201);
+    margin-left: 55px;
+    font-size: large;
+}
+
+.box1{
+    width: 50%;
+    height: 700px;
+    float: left;
+    background-color: rgba(39, 38, 38, 0.226);
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.titolo{
+    font-size: 40px;
+}
+
+.descrizione-calze{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.chisiamo{
+    margin-top: 10px;
+    width: 450px;
+    height: 300px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: medium; 
+}
+    
+.box2{
+    width: 50%;
+    height: 700px;
+    float: right;
+    background-color: rgb(25, 25, 25, 0.1);
+    text-align: center;
+}
+
+.calze{
+    width: 500px;
+    height: 650px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+   }
